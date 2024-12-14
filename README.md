@@ -37,6 +37,3 @@ progression = aiora.simulate_research_progression()
 
 ## Contributing
 Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
-
-## License
-[Choose an appropriate open-source license]
